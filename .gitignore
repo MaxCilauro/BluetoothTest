@@ -2,6 +2,7 @@
 
 ### Swift ###
 # Xcode
+project.xcworkspace
 
 ## User settings
 xcuserdata/
